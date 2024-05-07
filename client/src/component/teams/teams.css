@@ -1,0 +1,53 @@
+.section_teams {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.teams_top {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: -0.1px;
+    color: #5F6D7E;
+    margin-bottom: 32px;
+}
+
+.teams_top h2 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #272D37;
+    margin-bottom: 12px;
+}
+
+.teams_img {
+    margin-bottom: 16px;
+}
+
+.text_name {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: -0.02em;
+    color: #272D37;
+}
+
+.designation {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.1px;
+    color: #5F6D7E;
+    margin-bottom: 12px;
+}
+
+.teams_card {
+    margin-bottom: 32px;
+}
+
+.teams_card:last-child {
+    margin-bottom: 0;
+}
